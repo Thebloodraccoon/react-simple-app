@@ -1,4 +1,4 @@
-# Project Name
+# Simple react App
 
 This project is a simple e-commerce website that allows users to browse products by category and view product details.
 
