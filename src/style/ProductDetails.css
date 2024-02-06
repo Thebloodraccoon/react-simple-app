@@ -1,0 +1,27 @@
+.product-details-container {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.product-details-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+
+.product-details-container img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-details-container h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.product-details-container p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
